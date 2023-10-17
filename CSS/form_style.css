@@ -9,7 +9,7 @@
 
 body{display: flex;
     justify-content: center;
-    margin-top: 40%;
+    margin-top: 10%;
     align-items: center;
     background-color: rgba(0,0,0,0.5);}
 .a1{
@@ -22,7 +22,7 @@ body{display: flex;
 }
 
 .form_body{
-    width: 390px;
+    width: 304px;
     height: 400px;
     border-radius: 8px;
     display: flex;
