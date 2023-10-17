@@ -301,11 +301,7 @@ footer{
     margin-left: -130px;
     background-color: #F2F2F2;
 }
-    width: 1440px;
-    height: 120px;
-    margin-left: -130px;
-    background-color: #F2F2F2;
-}
+
 .footer{
     display: flex;
     flex-direction: row;
@@ -560,12 +556,11 @@ footer{
                         height: 24px;
                     }
                     footer{
-    margin-top: 72px;
-    width: 1440px;
-    height: 120px;
-    margin-left: -130px;
-    background-color: #F2F2F2;
-}
+                        margin-top: 100px;
+                        width: 520px;
+                        height: 60px;
+                        background-color: #F2F2F2;
+                    }
                     .footer{
                         display: flex;
                         flex-direction: row;
@@ -593,4 +588,5 @@ footer{
                         font-family: Rubik-Medium;
                         font-size: 8px;
                         font-weight: 500;
-                   
+                    }
+    }
