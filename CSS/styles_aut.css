@@ -561,12 +561,13 @@ footer{
                         height: 60px;
                         background-color: #F2F2F2;
                     }
-                    .footer{
-                        display: flex;
-                        flex-direction: row;
-                        padding-top: 11px;
-                        align-items: center;
-                    }
+                    footer {
+    margin-top: 1440px;
+    width: 1440px;
+    height: 60px;
+    margin-left: -130px;
+    background-color: #F2F2F2;
+}
                     .footer_text{
                         font-family: Rubik;
                         font-size: 8px;
